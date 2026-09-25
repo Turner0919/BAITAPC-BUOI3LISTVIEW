@@ -1,0 +1,17 @@
+D:\A.FILE MAIN\B-CODE C#\HocListView\HocListView\bin\Debug\net10.0-windows\HocListView.exe
+D:\A.FILE MAIN\B-CODE C#\HocListView\HocListView\bin\Debug\net10.0-windows\HocListView.deps.json
+D:\A.FILE MAIN\B-CODE C#\HocListView\HocListView\bin\Debug\net10.0-windows\HocListView.runtimeconfig.json
+D:\A.FILE MAIN\B-CODE C#\HocListView\HocListView\bin\Debug\net10.0-windows\HocListView.dll
+D:\A.FILE MAIN\B-CODE C#\HocListView\HocListView\bin\Debug\net10.0-windows\HocListView.pdb
+D:\A.FILE MAIN\B-CODE C#\HocListView\HocListView\obj\Debug\net10.0-windows\HocListView.Form1.resources
+D:\A.FILE MAIN\B-CODE C#\HocListView\HocListView\obj\Debug\net10.0-windows\HocListView.csproj.GenerateResource.cache
+D:\A.FILE MAIN\B-CODE C#\HocListView\HocListView\obj\Debug\net10.0-windows\HocListView.GeneratedMSBuildEditorConfig.editorconfig
+D:\A.FILE MAIN\B-CODE C#\HocListView\HocListView\obj\Debug\net10.0-windows\HocListView.AssemblyInfoInputs.cache
+D:\A.FILE MAIN\B-CODE C#\HocListView\HocListView\obj\Debug\net10.0-windows\HocListView.AssemblyInfo.cs
+D:\A.FILE MAIN\B-CODE C#\HocListView\HocListView\obj\Debug\net10.0-windows\HocListView.csproj.CoreCompileInputs.cache
+D:\A.FILE MAIN\B-CODE C#\HocListView\HocListView\obj\Debug\net10.0-windows\HocListView.dll
+D:\A.FILE MAIN\B-CODE C#\HocListView\HocListView\obj\Debug\net10.0-windows\refint\HocListView.dll
+D:\A.FILE MAIN\B-CODE C#\HocListView\HocListView\obj\Debug\net10.0-windows\HocListView.pdb
+D:\A.FILE MAIN\B-CODE C#\HocListView\HocListView\obj\Debug\net10.0-windows\HocListView.genruntimeconfig.cache
+D:\A.FILE MAIN\B-CODE C#\HocListView\HocListView\obj\Debug\net10.0-windows\ref\HocListView.dll
+D:\A.FILE MAIN\B-CODE C#\HocListView\HocListView\obj\Debug\net10.0-windows\HocListV.AE84CDC8.Up2Date
